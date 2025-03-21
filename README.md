@@ -14,6 +14,10 @@
 <a href="https://github.com/kento996/xianzhi_assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kento996&repo=xianzhi_assistant&theme=vue&show_icons=true" />
 </a>
+<a href="https://github.com/Zjackky/CodeScan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zjackky&repo=CodeScan&theme=vue&show_icons=true" />
+</a>
+
 
 
 ### Contributions in the last year

@@ -1,5 +1,5 @@
 ### Whoami
-- 👋 About: I am a cybersecurity enthusiast, currently enrolled in Sichuan University, pursuing my master's degree. My main areas of research include: static program analysis, LLM security and APR.
+- 👋 About: I am a cybersecurity enthusiast, currently enrolled in Sichuan University, pursuing my master's degree. I am now working in Ant Group's AI Office Risk Technology Team, focusing on applied algorithms. My main areas of research include: static program analysis, LLM security and APR.
 - ⭐️ Github: https://github.com/kento996
 
 
